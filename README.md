@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="funbinet.png" alt="Funbinet Portfolio" width="300"/>
-</p>
+<p align="center"> <img src="funbinet.png" alt="funbinet" width="200"/> </p>
 
 <h1 align="center">FUNBINET PORTFOLIO</h1>
 
@@ -215,10 +213,9 @@ fun/
 - **Skills**: Python, Bash, JavaScript, C/C++, Kali Linux
 - **Philosophy**: "Understanding systems like an attacker, securing them like an engineer"
 
-### Projects
+### Featured Projects
 - **LEVIATHAN**: Complete penetration testing suite (100+ tools)
 - **OMNISEC**: Comprehensive defensive security platform (80+ tools)
-- **Funbinet Portfolio**: This cybersecurity-themed personal website
 
 ### Contact
 - **Email**: funbinet@gmail.com
